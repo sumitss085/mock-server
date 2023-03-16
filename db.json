@@ -5,6 +5,18 @@
                 {"id":2,"name":"more","age":55},
                 {"id":3,"name":"gote","age":75},
                 {"id":4,"name":"sfb","age":15}
-            ]
-    
+            ],
+    "Product":[
+        {"id":1,"title":"mdfg","price":25},
+        {"id":2,"title":"mdfbgnfgore","price":55},
+        {"id":3,"title":"gofbfgbfbte","price":75},
+        {"id":4,"title":"fgbfbfbf","price":15}
+    ],
+    "todos":[
+        {"id":1,"title":"mdfg","status":false},
+        {"id":2,"title":"mdfbgnfgore","status":false},
+        {"id":3,"title":"gofbfgbfbte","status":false},
+        {"id":4,"title":"fgbfbfbf","status":false}
+    ]
+
 }
